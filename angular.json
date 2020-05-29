@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "livefront"
+    }
+  },
+  "defaultProject": "livefront",
+  "cli": {
+    "analytics": "4bc3dec2-0e3c-4250-b7a4-383d9524f2e4"
+  }
 }
